@@ -1,3 +1,6 @@
+Go here to play:
+https://resistanceisfuta.github.io/liara.html
+
 Reasonably modern computer and browser (not Internet Explorer) required to run HTML5/Javascript and play WEBM videos
 Music requires OGG audio support
 
